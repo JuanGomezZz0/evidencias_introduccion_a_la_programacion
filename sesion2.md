@@ -39,7 +39,7 @@ about.html
 
 contact.html
 
-[LINK](https://firebasestorage.googleapis.com/v0/b/proyecto-integrador-35564.appspot.com/o/Contact.png?alt=media&token=12d07a0a-b169-4c72-ba5f-9f50715da9c6)
+![LINK](https://firebasestorage.googleapis.com/v0/b/proyecto-integrador-35564.appspot.com/o/Contact.png?alt=media&token=12d07a0a-b169-4c72-ba5f-9f50715da9c6)
 
 
 
